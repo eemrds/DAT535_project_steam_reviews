@@ -1,7 +1,7 @@
 # Game Recommendation with pyspark and Hadoop
 
 To run the project there are two different files that are important. `steam_reviews.ipynb` and `preprocess.ipynb`. 
-The frontend can be run from `app.py` with flask. It is mainly a MVP of an application that could show the game recommendations.
+The frontend can be run from `app.py` and the `reviews.py` with flask. It is mainly a MVP of an application that can  show the game recommendations.
 
 ## How to run
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/smeeeow/steam-game-reviews)
